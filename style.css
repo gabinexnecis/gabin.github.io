@@ -1,0 +1,11 @@
+body {
+    background-color: gray;
+  }
+  
+  img {
+    width: 400px;
+  }
+  
+  h1, h2, p, li {
+    font-family: Helvetica, Arial, sans-serif;
+  }
